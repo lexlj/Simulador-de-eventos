@@ -1,0 +1,17 @@
+#Definicion de variables
+Lugares = ["La Sabana", "La Guacima","Heredia","Alajuela","San Pedro", "Zapote"]
+
+Categorias = ["Conciertos","Fiestas","Degustaciones","Desfiles","Teatro","Danza","Eventos con Musica en Vivo","Deporte"]
+
+Precio=int(200)
+
+EventosLaSabana= ["Concierto Bad Bunny", "Concierto de Coldplay","Partido CR-Canada","Partido CR-El Salvador", "CR-EEUU"]
+
+EventosLaGuacima = [""]
+#Variables entered by user
+username=str(input("Por favor escriba su nombre : "))
+
+print(str(username),"por favor inserte su email : ")
+email=str(input())
+
+#Processes
